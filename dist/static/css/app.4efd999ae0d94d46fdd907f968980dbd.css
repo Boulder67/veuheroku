@@ -1,0 +1,2 @@
+body{padding:30px}.slide-enter-active{animation:slide-in .9s ease-out forwards}.slide-leave-active{animation:slide-out .9s ease-out forwards}@keyframes slide-in{0%{transform:translateY(-30px);opacity:0}to{transform:translateY(0);opacity:1}}@keyframes slide-out{0%{transform:translateY(0);opacity:1}to{transform:translateY(-30px);opacity:0}}.danger[data-v-8a745b36],.danger[data-v-11ad6bcd]{border:1px solid red}
+/*# sourceMappingURL=app.4efd999ae0d94d46fdd907f968980dbd.css.map */
